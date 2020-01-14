@@ -5,9 +5,7 @@
           The user can change the background color and text color. There is also a text field where the user can input custom           text and this text is displayed on the screen. The user can tap the background to reset the displayed text, text               color and background color
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="https://recordit.co/tqdcp82eSH" width=200><br>
+<img src="http://g.recordit.co/tqdcp82eSH.gif" width=200><br>
 
 
 ### Required User Stories
